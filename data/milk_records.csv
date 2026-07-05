@@ -1,0 +1,6 @@
+Customer ID,Customer Name,Date,Shift,Milk Type,Milk Quantity,Fat %,SNF %,Rate,Amount,Fat,SNF
+C002,paarth,2026-06-10,Evening,Buffalo,15.0,,,50,750.0,0.0,0.0
+C002,paarth,2026-06-10,Evening,Buffalo,15.0,,,50,750.0,5.0,0.0
+C003,Nishu Bby,2026-06-11,Morning,Buffalo,10.0,,,60,600.0,9.0,4.0
+C003,Nishu Bby,2026-06-11,Morning,Buffalo,10.0,,,60,600.0,9.0,4.0
+C004,Ashok,2026-06-12,Morning,Buffalo,10.0,,,55,550.0,6.0,8.0
