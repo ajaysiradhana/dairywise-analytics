@@ -1,2 +1,121 @@
 Customer ID,Customer Name,Payment Date,Paid Amount,Payment Mode,Remarks
-C001,Ramesh,2026-06-10,300.0,Cash,advanced payment
+C001,Ramesh,2026-06-07,4382,Cash,Weekly payment
+C001,Ramesh,2026-06-14,4447,Bank Transfer,Weekly payment
+C001,Ramesh,2026-06-21,2344,Bank Transfer,Weekly payment
+C001,Ramesh,2026-06-28,3690,UPI,Weekly payment
+C002,Suresh,2026-06-07,1684,Bank Transfer,Weekly payment
+C002,Suresh,2026-06-14,2122,Cash,Weekly payment
+C002,Suresh,2026-06-21,2171,Cash,Weekly payment
+C002,Suresh,2026-06-28,3518,Cash,Weekly payment
+C003,Mohan,2026-06-07,2263,Bank Transfer,Weekly payment
+C003,Mohan,2026-06-14,3979,Cash,Weekly payment
+C003,Mohan,2026-06-21,2725,UPI,Weekly payment
+C003,Mohan,2026-06-28,2847,UPI,Weekly payment
+C004,Rajesh,2026-06-07,2290,Cash,Weekly payment
+C004,Rajesh,2026-06-14,4800,Cash,Weekly payment
+C004,Rajesh,2026-06-21,1747,Cash,Weekly payment
+C004,Rajesh,2026-06-28,2397,UPI,Weekly payment
+C005,Deepak,2026-06-07,2983,UPI,Weekly payment
+C005,Deepak,2026-06-14,4433,UPI,Weekly payment
+C005,Deepak,2026-06-21,3729,UPI,Weekly payment
+C005,Deepak,2026-06-28,3212,UPI,Weekly payment
+C006,Vikram,2026-06-07,2158,UPI,Weekly payment
+C006,Vikram,2026-06-14,4212,Cash,Weekly payment
+C006,Vikram,2026-06-21,3129,Cash,Weekly payment
+C006,Vikram,2026-06-28,3817,UPI,Weekly payment
+C007,Ajay,2026-06-07,3764,UPI,Weekly payment
+C007,Ajay,2026-06-14,3091,Cash,Weekly payment
+C007,Ajay,2026-06-21,4057,Bank Transfer,Weekly payment
+C007,Ajay,2026-06-28,1592,UPI,Weekly payment
+C008,Amit,2026-06-07,3656,UPI,Weekly payment
+C008,Amit,2026-06-14,1794,Cash,Weekly payment
+C008,Amit,2026-06-21,4328,Cash,Weekly payment
+C008,Amit,2026-06-28,3358,UPI,Weekly payment
+C009,Rohit,2026-06-07,4021,UPI,Weekly payment
+C009,Rohit,2026-06-14,4561,Cash,Weekly payment
+C009,Rohit,2026-06-21,4731,Bank Transfer,Weekly payment
+C009,Rohit,2026-06-28,3242,UPI,Weekly payment
+C010,Pankaj,2026-06-07,4031,UPI,Weekly payment
+C010,Pankaj,2026-06-14,4932,Bank Transfer,Weekly payment
+C010,Pankaj,2026-06-21,2318,UPI,Weekly payment
+C010,Pankaj,2026-06-28,2040,Bank Transfer,Weekly payment
+C011,Sunil,2026-06-07,3985,UPI,Weekly payment
+C011,Sunil,2026-06-14,1688,UPI,Weekly payment
+C011,Sunil,2026-06-21,1814,Bank Transfer,Weekly payment
+C011,Sunil,2026-06-28,4011,UPI,Weekly payment
+C012,Mahesh,2026-06-07,3675,UPI,Weekly payment
+C012,Mahesh,2026-06-14,3369,Cash,Weekly payment
+C012,Mahesh,2026-06-21,4627,Bank Transfer,Weekly payment
+C012,Mahesh,2026-06-28,4217,UPI,Weekly payment
+C013,Dinesh,2026-06-07,1555,UPI,Weekly payment
+C013,Dinesh,2026-06-14,1848,Cash,Weekly payment
+C013,Dinesh,2026-06-21,2067,Cash,Weekly payment
+C013,Dinesh,2026-06-28,2247,UPI,Weekly payment
+C014,Narendra,2026-06-07,3949,Bank Transfer,Weekly payment
+C014,Narendra,2026-06-14,4267,UPI,Weekly payment
+C014,Narendra,2026-06-21,3398,Bank Transfer,Weekly payment
+C014,Narendra,2026-06-28,2881,Cash,Weekly payment
+C015,Ankit,2026-06-07,4982,Bank Transfer,Weekly payment
+C015,Ankit,2026-06-14,4959,Bank Transfer,Weekly payment
+C015,Ankit,2026-06-21,3743,UPI,Weekly payment
+C015,Ankit,2026-06-28,3817,Bank Transfer,Weekly payment
+C016,Sachin,2026-06-07,4513,UPI,Weekly payment
+C016,Sachin,2026-06-14,3708,UPI,Weekly payment
+C016,Sachin,2026-06-21,2474,Cash,Weekly payment
+C016,Sachin,2026-06-28,2649,UPI,Weekly payment
+C017,Yogesh,2026-06-07,4871,Cash,Weekly payment
+C017,Yogesh,2026-06-14,3878,Cash,Weekly payment
+C017,Yogesh,2026-06-21,4351,Cash,Weekly payment
+C017,Yogesh,2026-06-28,4154,Cash,Weekly payment
+C018,Prakash,2026-06-07,4002,Bank Transfer,Weekly payment
+C018,Prakash,2026-06-14,2737,Bank Transfer,Weekly payment
+C018,Prakash,2026-06-21,2301,Cash,Weekly payment
+C018,Prakash,2026-06-28,4815,Cash,Weekly payment
+C019,Harish,2026-06-07,3384,Cash,Weekly payment
+C019,Harish,2026-06-14,4875,Bank Transfer,Weekly payment
+C019,Harish,2026-06-21,3582,Bank Transfer,Weekly payment
+C019,Harish,2026-06-28,4571,Bank Transfer,Weekly payment
+C020,Govind,2026-06-07,1687,Cash,Weekly payment
+C020,Govind,2026-06-14,2714,Bank Transfer,Weekly payment
+C020,Govind,2026-06-21,3307,Cash,Weekly payment
+C020,Govind,2026-06-28,2413,Cash,Weekly payment
+C021,Manoj,2026-06-07,2030,UPI,Weekly payment
+C021,Manoj,2026-06-14,3523,UPI,Weekly payment
+C021,Manoj,2026-06-21,2231,Cash,Weekly payment
+C021,Manoj,2026-06-28,3753,Cash,Weekly payment
+C022,Naresh,2026-06-07,3362,Bank Transfer,Weekly payment
+C022,Naresh,2026-06-14,3770,Cash,Weekly payment
+C022,Naresh,2026-06-21,1687,UPI,Weekly payment
+C022,Naresh,2026-06-28,2225,Bank Transfer,Weekly payment
+C023,Ashok,2026-06-07,3124,UPI,Weekly payment
+C023,Ashok,2026-06-14,3807,Cash,Weekly payment
+C023,Ashok,2026-06-21,3098,Bank Transfer,Weekly payment
+C023,Ashok,2026-06-28,4382,Bank Transfer,Weekly payment
+C024,Kailash,2026-06-07,3267,Cash,Weekly payment
+C024,Kailash,2026-06-14,3539,UPI,Weekly payment
+C024,Kailash,2026-06-21,1848,Bank Transfer,Weekly payment
+C024,Kailash,2026-06-28,3968,Bank Transfer,Weekly payment
+C025,Ravi,2026-06-07,4994,UPI,Weekly payment
+C025,Ravi,2026-06-14,2435,Bank Transfer,Weekly payment
+C025,Ravi,2026-06-21,3309,Cash,Weekly payment
+C025,Ravi,2026-06-28,4339,UPI,Weekly payment
+C026,Shyam,2026-06-07,3370,UPI,Weekly payment
+C026,Shyam,2026-06-14,1857,Cash,Weekly payment
+C026,Shyam,2026-06-21,3774,Bank Transfer,Weekly payment
+C026,Shyam,2026-06-28,1702,UPI,Weekly payment
+C027,Lokesh,2026-06-07,4078,Bank Transfer,Weekly payment
+C027,Lokesh,2026-06-14,2648,Cash,Weekly payment
+C027,Lokesh,2026-06-21,1502,Bank Transfer,Weekly payment
+C027,Lokesh,2026-06-28,3349,Bank Transfer,Weekly payment
+C028,Rakesh,2026-06-07,2363,Cash,Weekly payment
+C028,Rakesh,2026-06-14,4079,UPI,Weekly payment
+C028,Rakesh,2026-06-21,4789,Bank Transfer,Weekly payment
+C028,Rakesh,2026-06-28,4694,Bank Transfer,Weekly payment
+C029,Hemant,2026-06-07,2494,UPI,Weekly payment
+C029,Hemant,2026-06-14,2149,Cash,Weekly payment
+C029,Hemant,2026-06-21,1847,UPI,Weekly payment
+C029,Hemant,2026-06-28,4051,Cash,Weekly payment
+C030,Nitin,2026-06-07,3674,Cash,Weekly payment
+C030,Nitin,2026-06-14,2365,UPI,Weekly payment
+C030,Nitin,2026-06-21,2259,Cash,Weekly payment
+C030,Nitin,2026-06-28,4757,UPI,Weekly payment
